@@ -1,2 +1,5 @@
-enQ(70);
-    
+#include<stdio.h>
+int main(){
+    printf("Hellow world");
+    return 0;
+}    
